@@ -10,11 +10,11 @@
   "author": "Eric McCormick (https://ericmccormick.io/)",
   "license": "MIT",
   "devDependencies": {
-    "browserify": "^14.5.0",
-    "serve": "^6.4.1",
-    "uglify-js": "^3.2.0"
+    "browserify": "14.5.0",
+    "serve": "6.4.1",
+    "uglify-js": "3.2.0"
   },
   "dependencies": {
-    "aframe": "^0.7.1"
+    "aframe": "0.7.1"
   }
 }
